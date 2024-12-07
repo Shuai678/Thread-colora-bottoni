@@ -1,0 +1,10 @@
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\bin\Debug\prova interrogazione.exe.config
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\bin\Debug\prova interrogazione.exe
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\bin\Debug\prova interrogazione.pdb
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\obj\Debug\prova interrogazione.csproj.AssemblyReference.cache
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\obj\Debug\prova_interrogazione.Form1.resources
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\obj\Debug\prova_interrogazione.Properties.Resources.resources
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\obj\Debug\prova interrogazione.csproj.GenerateResource.cache
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\obj\Debug\prova interrogazione.csproj.CoreCompileInputs.cache
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\obj\Debug\prova interrogazione.exe
+C:\Users\shuai.21032\Desktop\prova interrogazione\prova interrogazione\obj\Debug\prova interrogazione.pdb

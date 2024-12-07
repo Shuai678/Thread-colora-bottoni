@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shuai.21032\\Desktop\\prova interrogazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08F65F5B-39C0-47F0-B64E-085680AD9F5C}|prova interrogazione\\prova interrogazione.csproj|c:\\users\\shuai.21032\\desktop\\prova interrogazione\\prova interrogazione\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F65F5B-39C0-47F0-B64E-085680AD9F5C}|prova interrogazione\\prova interrogazione.csproj|solutionrelative:prova interrogazione\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F65F5B-39C0-47F0-B64E-085680AD9F5C}|prova interrogazione\\prova interrogazione.csproj|c:\\users\\shuai.21032\\desktop\\prova interrogazione\\prova interrogazione\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08F65F5B-39C0-47F0-B64E-085680AD9F5C}|prova interrogazione\\prova interrogazione.csproj|solutionrelative:prova interrogazione\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\prova interrogazione\\prova interrogazione\\Form1.cs",
+              "RelativeDocumentMoniker": "prova interrogazione\\Form1.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\prova interrogazione\\prova interrogazione\\Form1.cs",
+              "RelativeToolTip": "prova interrogazione\\Form1.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAADgv1cAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:25:16.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\prova interrogazione\\prova interrogazione\\Form1.cs",
+              "RelativeDocumentMoniker": "prova interrogazione\\Form1.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\prova interrogazione\\prova interrogazione\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "prova interrogazione\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:25:01.9Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
